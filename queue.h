@@ -25,6 +25,5 @@ bool addNode(Entry entry, Queue* pqueue);
 bool removeNode(Queue* pqueue);
 int numberOfElements(const Queue* pqueue);
 void displayData(const Queue* pqueue);
-//void executeFunction(const Queue* pqueue, void (*pfun)(Entry entry));
 bool deleteQueue(Queue* pqueue);
 
